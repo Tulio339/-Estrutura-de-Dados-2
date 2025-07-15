@@ -1,6 +1,5 @@
 # ==============================================================================
 # PROJETO FORJA DE HERÓIS - DESAFIO MESTRE DOS ALGORITMOS
-# MÓDULO 1 CONSOLIDADO EM UM ÚNICO ARQUIVO - VERSÃO COMENTADA
 # ==============================================================================
 
 # Importações necessárias para o script
